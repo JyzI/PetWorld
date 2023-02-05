@@ -53,14 +53,14 @@ class Pet { // this class is used to create objects, while also defining datat t
 // this class is used to define dog and extend it into the Pet class
 class Dog extends Pet {
   public Dog(String name) {
-    super("dog", name); // This is uses the argument name to associate the name associated with the pet and type
+    super("dog", name); // This is using the argument name to associate the name associated with the pet and type
   }
 }
 
 // this class is used to define cat and extend it into the Pet class
 class Cat extends Pet {
   public Cat(String name) {
-    super("cat", name); // This is uses the argument name to associate the name associated with the pet and type
+    super("cat", name); // This is using the argument name to associate the name associated with the pet and type
   }
 }
 System.out.println("Hello!"); // This is where the program officially starts, which is began with a greeting for the user
