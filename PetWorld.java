@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.util.Arrays;
 
-class Petworld {
+class Main {
 public static void main(String[] args) {
 Scanner scanner = new Scanner(System.in);
 
